@@ -44,7 +44,7 @@
     "@elastic/ecs-winston-format": "^1.5.2",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@ffprobe-installer/ffprobe": "^2.1.2",
-    "@google/generative-ai": "^0.8.1",
+    "@google/generative-ai": "^0.24.0",
     "@koa/cors": "^4.0.0",
     "axios": "^1.6.2",
     "busboy": "^1.6.0",
