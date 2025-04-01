@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@cemalgnlts/mailjs": "^2.2.0",
-    "@dqbd/tiktoken": "^1.0.7",
+    "@dqbd/tiktoken": "^1.0.20",
     "@elastic/ecs-winston-format": "^1.5.2",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@ffprobe-installer/ffprobe": "^2.1.2",
